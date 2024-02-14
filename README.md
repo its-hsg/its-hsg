@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hussain Salis
+ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hussain Salis
 =====================================================================================================================================
 
 Frontend Dev
@@ -7,7 +7,7 @@ Frontend Dev
 I am currently on a journey to become a Full-stack developer.
 
 *   🌍  I'm based in Nigeria
-*   ✉️  You can contact me at [Hussainsalis0@gmail.com](mailto:Hussainsalis0@gmail.com)
+*   ✉️  You can contact me at [hussainsalis0@gmail.com](mailto:hussainsalis0@gmail.com)
 *   🧠  I'm learning React ,NextJS & Typescript
 *   🤝  I'm open to collaborating on Front-end projects
 *   ⚡  I game alot lol### Skills 
